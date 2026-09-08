@@ -1,7 +1,36 @@
 # BlazeUp HROS — Employee Offboarding Automation Engine
 
-> **Competition-Ready Enterprise Offboarding & Digital Clearance Automation Platform for Terralogic**  
-> Built strictly with **Node.js (Pure JavaScript ES Modules)**, **MongoDB**, and **React (Pure JavaScript JSX)**.
+<p align="center">
+  <a href="https://offboarding-automation-sreekar4.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Demo-Visit_Portal-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+  </a>
+  <a href="https://offboarding-automation.onrender.com/api/v1/health" target="_blank">
+    <img src="https://img.shields.io/badge/API_Status-Online-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render API" />
+  </a>
+  <a href="https://www.mongodb.com/cloud/atlas" target="_blank">
+    <img src="https://img.shields.io/badge/Cloud_DB-MongoDB_Atlas-00ED64?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Atlas" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Enterprise digital offboarding & clearance workflow engine with strict role isolation and automated certificate generation.</b>
+  <br />
+  <sub>Built strictly with <b>Node.js (Pure JavaScript ES Modules)</b>, <b>MongoDB</b>, and <b>React (Pure JavaScript JSX)</b>.</sub>
+</p>
+
+<p align="center">
+  <a href="https://offboarding-automation-sreekar4.vercel.app"><strong>🔗 Launch Live Application »</strong></a>
+</p>
+
+---
+
+## 🌐 Live Cloud Deployment
+
+| Service | Cloud Platform | Status | Live Link |
+|---|---|---|---|
+| **Frontend UI** | **Vercel** | `Production` | [offboarding-automation-sreekar4.vercel.app](https://offboarding-automation-sreekar4.vercel.app) |
+| **Backend API** | **Render** | `Active` | [offboarding-automation.onrender.com](https://offboarding-automation.onrender.com/api/v1/health) |
+| **Database** | **MongoDB Atlas** | `Connected` | Multi-Tenant Cloud Cluster |
 
 ---
 
