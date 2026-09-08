@@ -1,0 +1,12 @@
+{
+  "name": "blazeup-offboarding-workspace",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Terralogic BlazeUp HROS - Employee Offboarding Automation Suite",
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "frontend": "npm --prefix frontend run dev",
+    "backend": "npm --prefix backend start",
+    "start": "npm --prefix backend start"
+  }
+}
